@@ -1,2 +1,2 @@
-# fcc-html-video-player
-A video player page created as part of the freeCodeCamp responsive web design course.
+# fcc-audio-player
+an audio player page created with html as part of the freeCodeCamp responsive web design course.
